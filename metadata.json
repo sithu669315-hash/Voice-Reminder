@@ -1,0 +1,6 @@
+{
+  "name": "Burmese Voice Daily Reminder App",
+  "description": "မြန်မာဘာသာဖြင့် အသံသတိပေးချက်များနှင့် နေ့စဉ်လုပ်ဆောင်ဖွယ်များ စီမံခန့်ခွဲရာ Glassmorphism Productivity App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
